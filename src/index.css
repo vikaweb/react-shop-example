@@ -102,3 +102,6 @@ nav {
     transform: translateY(0rem);
   }
 }
+.page-footer {
+  padding: 20px 0;
+}
