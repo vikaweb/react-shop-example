@@ -1,6 +1,6 @@
 {
   "name": "vitrin",
-  "home": "https://vikaweb.github.io/react-shop-example",
+  "homepage": "https://vikaweb.github.io/react-shop-example",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
